@@ -12,6 +12,7 @@ gem "simple_form", ">= 2.0.4"
 gem 'turnout'
 gem 'daemons'
 gem 'figaro'
+gem 'mini_portile', '0.6.2'
 
 gem "friendly_id"
 gem "delayed_job_active_record", "0.4.1"
